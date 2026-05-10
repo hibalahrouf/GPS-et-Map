@@ -1,11 +1,11 @@
 # 📍 Application de Suivi de Position 
 
-## 🎯 Objectif
+## Objectif
 Ce TP consiste à créer une application Android simple qui affiche une carte et suit la position de l’utilisateur en temps réel grâce au GPS.
 
 ---
 
-## 📱 Fonctionnalités
+##  Fonctionnalités
 
 - Affichage d’une carte avec **OSMDroid**
 - Demande de permission de localisation
@@ -17,7 +17,7 @@ Ce TP consiste à créer une application Android simple qui affiche une carte et
 
 ---
 
-## 🛠 Technologies utilisées
+##  Technologies utilisées
 
 - Java (Android)
 - LocationManager (GPS)
@@ -26,7 +26,7 @@ Ce TP consiste à créer une application Android simple qui affiche une carte et
 
 ---
 
-## ⚙️ Fonctionnement
+##  Fonctionnement
 
 1. L’application démarre et affiche une carte centrée sur le Maroc.
 2. Elle demande la permission de localisation.
@@ -36,7 +36,3 @@ Ce TP consiste à créer une application Android simple qui affiche une carte et
    - Un marqueur est ajouté sur la carte
    - La caméra se déplace vers la position actuelle
 
-
-## 👨‍💻 Auteur
-
-TP Android — Application de géolocalisation# GPS-et-Map
